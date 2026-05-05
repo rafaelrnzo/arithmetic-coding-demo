@@ -2,9 +2,6 @@
 Arithmetic Coding Demo
 Tugas Pertemuan 6 - Teori Informasi
 
-Nama : Faris Maulana Al Ba I
-NIM  : 1313624004
-
 """
 
 import streamlit as st

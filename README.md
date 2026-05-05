@@ -1,10 +1,26 @@
 # Arithmetic Coding Demo
 
-Tugas Pertemuan 6 — Teori Informasi
+## Author
+
+Faris Maulana Al Ba I — NIM 1313624004
+
+Mata Kuliah: Teori Informasi  
+Pertemuan 6 — Arithmetic Coding
 
 ## Cara Menjalankan
 
-1. **Install dependencies:**
+### Persyaratan
+- Python 3.8 atau lebih baru
+
+### Langkah-langkah
+ 
+1. Clone repo:
+   ```bash
+   git clone <url-repo-anda>
+   cd <nama-repo>
+   ```
+
+2. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
@@ -13,12 +29,12 @@ Tugas Pertemuan 6 — Teori Informasi
    pip install streamlit pandas plotly
    ```
 
-2. **Jalankan aplikasi:**
+3. **Jalankan aplikasi:**
    ```bash
    streamlit run app.py
    ```
 
-3. Browser akan otomatis terbuka di `http://localhost:8501`. Kalau tidak, buka manual.
+4. Browser akan otomatis terbuka di `http://localhost:8501`. Kalau tidak, buka manual.
 
 ## Fitur
 
